@@ -12,3 +12,5 @@ Animoto Video on Github for media video.
 Animoto Video on youtube for ember lab at: https://youtu.be/oHHNEu3_S6o
 
 You will need a Google Analytics account to complete the Google Analytics plugin lab
+
+Use Updraft Plus to Backup the site when done on lasy day
